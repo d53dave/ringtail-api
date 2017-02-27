@@ -1,3 +1,5 @@
+# ringtail-api
+Backend API for the Ringtail Project
 # RingtailApi
 
 To start your Phoenix app:
