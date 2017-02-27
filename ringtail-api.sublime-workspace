@@ -1,0 +1,2262 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cach",
+				"cachedData\t(?)"
+			],
+			[
+				"pro",
+				"progressVm\t(?)"
+			],
+			[
+				"newSta",
+				"newStateParams\t{}"
+			],
+			[
+				"report",
+				"reportQuery\t(?)"
+			],
+			[
+				"is",
+				"isDirectQuery"
+			],
+			[
+				"sec",
+				"sectionIndex\t(?)"
+			],
+			[
+				"grap",
+				"graphOptions"
+			],
+			[
+				"isDire",
+				"isDirectQuery\t(bool)"
+			],
+			[
+				"toggle",
+				"toggleXSelection(sectionIndex, col)"
+			],
+			[
+				"coll",
+				"collapsed\t(?)"
+			],
+			[
+				"query",
+				"queryParameters"
+			],
+			[
+				"theNw",
+				"theNewTabIdx\t(num)"
+			],
+			[
+				"theN",
+				"theNewTabIdx\t(num)"
+			],
+			[
+				"active",
+				"activateTab"
+			],
+			[
+				"do",
+				"doActivateNewTab\t(bool)"
+			],
+			[
+				"repor",
+				"reportQuery"
+			],
+			[
+				"tableda",
+				"tabledataVm\t(?)"
+			],
+			[
+				"abs",
+				"absoluteEnd"
+			],
+			[
+				"abso",
+				"absoluteStart"
+			],
+			[
+				"gra",
+				"graph\t(?)"
+			],
+			[
+				"Table",
+				"TabledataController"
+			],
+			[
+				"csv",
+				"csvBlob\t(?)"
+			],
+			[
+				"zi",
+				"zipname\t(str)"
+			],
+			[
+				"graphs",
+				"graphsVm\t(?)"
+			],
+			[
+				"att",
+				"setAttribute"
+			],
+			[
+				"graphsV",
+				"graphSvg\t(?)"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"shou",
+				"shouldSum"
+			],
+			[
+				"cursor",
+				"cursorY\t(str)"
+			],
+			[
+				"val1",
+				"val1Comment\t(str)"
+			],
+			[
+				"val",
+				"val2Comment\t(str)"
+			],
+			[
+				"val2",
+				"val2Comment\t(str)"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border-",
+				"border-width"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"dril",
+				"drilldownHistory\t[]"
+			],
+			[
+				"drill",
+				"drilldownHistoryItem\t{}"
+			],
+			[
+				"result",
+				"resultTaskId"
+			],
+			[
+				"con",
+				"convertSuccess()"
+			],
+			[
+				"conv",
+				"convertOptions\t{}"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"row",
+				"rowWidthAcc\t(num)"
+			],
+			[
+				"legend",
+				"legendCol\t(num)"
+			],
+			[
+				"legendCoun",
+				"legendCounter\t(num)"
+			],
+			[
+				"graph",
+				"graphSettings\t(?)"
+			],
+			[
+				"recu",
+				"recurringReport\t(?)"
+			],
+			[
+				"sma",
+				"smartrp-graph-tooltip-unhidden"
+			],
+			[
+				"smart-r",
+				"smartrp-graph-tooltip"
+			],
+			[
+				"repo",
+				"reportQuery\t(?)"
+			],
+			[
+				"summed",
+				"summedSuffix\t(str)"
+			],
+			[
+				"padd",
+				"linePadding"
+			],
+			[
+				"legen",
+				"legendEntry\t(?)"
+			],
+			[
+				"rendered",
+				"renderedGraph"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"value",
+				"valueString\t(str)"
+			],
+			[
+				"filters",
+				"filterStrings\t(?)"
+			],
+			[
+				"toggl",
+				"toggleFilter(name, value)"
+			],
+			[
+				"tas",
+				"taskId\t(?)"
+			],
+			[
+				"timpi",
+				"timepickerVm\t(?)"
+			],
+			[
+				"modal",
+				"modalVm\t(?)"
+			],
+			[
+				"acc",
+				"accRow\t(?)"
+			],
+			[
+				"data",
+				"dataService\t(?)"
+			],
+			[
+				"target",
+				"targetParams\t(?)"
+			],
+			[
+				"summ",
+				"summaryUnit\t(str)"
+			],
+			[
+				"map",
+				"mapStateToPeriodObject\t(?)"
+			],
+			[
+				"mappe",
+				"mappedToAbsolute\t{}"
+			],
+			[
+				"absolute",
+				"absoluteStart\t(num)"
+			],
+			[
+				"drilldown",
+				"drilldownHistoryTaskIds\t[]"
+			],
+			[
+				"summar",
+				"summaryUnit"
+			],
+			[
+				"unit",
+				"unitToInt(name)"
+			],
+			[
+				"sum",
+				"summaryValue"
+			],
+			[
+				"normal",
+				"normalizedSummary\t(str)"
+			],
+			[
+				"summa",
+				"summaryUnit\t(str)"
+			],
+			[
+				"table",
+				"tabledataVm"
+			],
+			[
+				"toL",
+				"toLowerCase()"
+			],
+			[
+				"arg",
+				"argsString\t(?)"
+			],
+			[
+				"summary",
+				"summaryDuration\t(?)"
+			],
+			[
+				"section",
+				"sectionIndex\t(?)"
+			],
+			[
+				"se",
+				"sectionIndex"
+			],
+			[
+				"time",
+				"timepickerService"
+			],
+			[
+				"current",
+				"currentProgress"
+			],
+			[
+				"curren",
+				"currentProgress"
+			],
+			[
+				"sh",
+				"shouldSum"
+			],
+			[
+				"Graphs",
+				"GraphsController"
+			],
+			[
+				"cur",
+				"cursorY\t(?)"
+			],
+			[
+				"cu",
+				"cursorX\t(?)"
+			],
+			[
+				"update",
+				"updateToolTip(x, y, label, value, visible)"
+			],
+			[
+				"ng-mouse",
+				"ng-mouseleave"
+			],
+			[
+				"sty",
+				"styleString\t(?)"
+			],
+			[
+				"bind",
+				"bindNg\t(?)"
+			],
+			[
+				"relative",
+				"isRelativeToUnit"
+			],
+			[
+				"number",
+				"Number"
+			],
+			[
+				"one",
+				"oneclickReports\t(?)"
+			],
+			[
+				"onecli",
+				"oneclickVm\t(?)"
+			],
+			[
+				"oneclik",
+				"oneclickReports"
+			],
+			[
+				"cache",
+				"cacheKey\t(?)"
+			],
+			[
+				"buildCacheKeyGet",
+				"buildCacheKeyGetGraphParams"
+			],
+			[
+				"num",
+				"numCols\t(?)"
+			],
+			[
+				"group",
+				"groupHeader\t(?)"
+			],
+			[
+				"colum",
+				"columnIdx\t(num)"
+			],
+			[
+				"gr",
+				"groupHeader\t(?)"
+			],
+			[
+				"grou",
+				"groupHeaders"
+			],
+			[
+				"fo",
+				"forEach(f, context?)"
+			],
+			[
+				"column",
+				"columnDelimiter\t(str)"
+			],
+			[
+				"aggre",
+				"aggregatorService\t(?)"
+			],
+			[
+				"filter",
+				"filterName"
+			],
+			[
+				"curre",
+				"currentReportQuery\t(?)"
+			],
+			[
+				"relati",
+				"isRelativeToUnit\t(bool)"
+			],
+			[
+				"input",
+				"input-group-addon"
+			],
+			[
+				"bo",
+				"boundedEndValid\t(?)"
+			],
+			[
+				"new",
+				"newVal\t(?)"
+			],
+			[
+				"va",
+				"valueOf"
+			],
+			[
+				"doy",
+				"doyFormat"
+			],
+			[
+				"rela",
+				"relativeStart\t(num)"
+			],
+			[
+				"summaryDuration",
+				"summaryDurationScale\t(num)"
+			],
+			[
+				"does",
+				"doesContain"
+			],
+			[
+				"ren",
+				"renderedGraph\t(?)"
+			],
+			[
+				"le",
+				"legendTotalHeigth\t(num)"
+			],
+			[
+				"lege",
+				"legendCount\t(?)"
+			],
+			[
+				"sele",
+				"selectAll"
+			],
+			[
+				"selec",
+				"selectAll\t(?)"
+			],
+			[
+				"max",
+				"maxLegendTextLength\t(num)"
+			],
+			[
+				"tot",
+				"totalWidth\t(?)"
+			],
+			[
+				"range",
+				"rangeBand\t(?)"
+			],
+			[
+				"ran",
+				"rangeRoundBands"
+			],
+			[
+				"all",
+				"allCols"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "web/router.ex",
+			"settings":
+			{
+				"buffer_size": 486,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "web/models/measurement.ex",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 459,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"forma",
+				"Format: Javascript"
+			],
+			[
+				"ht",
+				"HTMLPrettify"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"set ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set sy html",
+				"Set Syntax: HTML"
+			],
+			[
+				"htmlp",
+				"HTMLPrettify"
+			],
+			[
+				"inden",
+				"Indent JSON"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set sy ht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"in",
+				"Indent JSON"
+			],
+			[
+				"",
+				"Auto indent"
+			],
+			[
+				"f",
+				"Format: Javascript"
+			],
+			[
+				"format j",
+				"Format: Javascript"
+			],
+			[
+				"indent",
+				"Auto indent"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"syntax java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"HTML",
+				"HTMLPrettify"
+			],
+			[
+				"fora",
+				"Format: Javascript"
+			],
+			[
+				"syjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"package con",
+				"Package Control: List Packages"
+			],
+			[
+				"material",
+				"Material Theme: Activate theme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"add repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"fo",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"eslint",
+				"ESLint"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"syntax css",
+				"Set Syntax: CSS"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"htmlpre",
+				"HTMLPrettify"
+			],
+			[
+				"satis",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"markdonw",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"javascri",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"google",
+				"Google Spell Check"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"match",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"matchi",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"mat",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"ma",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"h",
+				"HTMLPrettify"
+			],
+			[
+				"matching",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"snip",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/dsere/ringtail/ringtail_api",
+		"/Users/dsere/ringtail/ringtail_api/_build/dev",
+		"/Users/dsere/ringtail/ringtail_api/_build/dev/lib",
+		"/Users/dsere/ringtail/ringtail_api/_build/dev/lib/ringtail_api",
+		"/Users/dsere/ringtail/ringtail_api/lib/ringtail_api",
+		"/Users/dsere/ringtail/ringtail_api/test/models",
+		"/Users/dsere/ringtail/ringtail_api/web/static/assets/images"
+	],
+	"file_history":
+	[
+		"/Users/dsere/Code/SMART/smart-web/bin/index.html",
+		"/Users/dsere/Code/SMART/smart-web/src/index.html",
+		"/Users/dsere/Code/SMART/smart-web/src/app/report/aggregator/aggregator.service.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/report/graphs/graphs.html",
+		"/Users/dsere/Code/SMART/smart-web/src/app/report/tabledata/tabledata.js",
+		"/Users/dsere/Library/Application Support/Sublime Text 3/Packages/GoSublime/CHANGELOG.md",
+		"/Users/dsere/Library/Application Support/Sublime Text 3/Packages/GoSublime/USAGE.md",
+		"/Users/dsere/Code/SMART/smart-web/bower_components/jszip/lib/utils.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/renderer/graph.renderer.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/profile/dropdown/dropdown.html",
+		"/Users/dsere/Code/SMART/smart-web/src/routes.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/timepicker/timepicker.service.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/report/aggregator/aggregator.vanilla.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/timepicker/timepicker.html",
+		"/Users/dsere/Code/SMART/smart-web/src/app/report/dueditor/dueditor.html",
+		"/Users/dsere/Code/SMART/smart-web/src/app/title.html",
+		"/Users/dsere/Code/SMART/smart-web/src/app/profile/recurring/editor.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/renderer/csv.renderer.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/timepicker/timepicker.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/report/progress/progress.js",
+		"/Users/dsere/Code/SMART/smart-web/src/index.less",
+		"/Users/dsere/Code/SMART/smart-web/src/app/report/reportlist/reportlist.html",
+		"/Users/dsere/Code/SMART/smart-web/src/app/profile/login/login.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/report/filters/filters.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/renderer/renderer.service.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/renderer/graph.renderer.spec.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/report/oneclick/oneclick.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/profile/login/login.html",
+		"/Users/dsere/Code/SMART/smart-web/src/app/report/tabset.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/report/report.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/report/tabset.html",
+		"/Users/dsere/Code/SMART/smart-web/src/app/report/filters/filters.service.js",
+		"/Users/dsere/Code/SMART/smart-web/doc/generated/src/api.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/report/drilldown/drilldown.service.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/report/drilldown/drilldown.spec.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/profile/dropdown/dropdown.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/auth/auth.service.js",
+		"/Users/dsere/Code/SMART/smart-web/src/constants.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/report/filters/filters.html",
+		"/Users/dsere/Code/SMART/smart-web/src/app/utils/prototypes.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/renderer/table.renderer.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/auth/auth.statechangelistener.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/profile/recurring/list.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/utils/storage.config.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/profile/recurring/table.html",
+		"/Users/dsere/Code/SMART/smart-web/src/app/utils/filters.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/report/tabledata/tabledata.html",
+		"/Users/dsere/Code/SMART/smart-web/src/app/report/dueditor/dueditor.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/report/reportlist/reportlist.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/profile/queries/list.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/data/data.service.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/logger/logger.service.js",
+		"/Users/dsere/Code/SMART/smart-reporting/src/main/java/org/eumetsat/smart/reporting/tasks/EmailSender.java",
+		"/Users/dsere/Code/SMART/smart-web/src/app/profile/tasks/table.html",
+		"/Users/dsere/Code/SMART/smart-web/src/app/profile/tasks/table.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/profile/queries/list.html",
+		"/Users/dsere/Code/SMART/smart-web/src/app/utils/utils.module.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/main.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/report/progress/progress.html",
+		"/Users/dsere/Code/SMART/smart-web/src/app/report/graphs/graphs.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/flash/flash.service.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/report/tabledata/comments.modal.html",
+		"/Users/dsere/Documents/SMART-docs/reportdata.json",
+		"/Users/dsere/Documents/smart-eps-response.json",
+		"/Users/dsere/Documents/report_eps_val_pdu_summary_section0_cdvvz8n8ziLkMKtP.html",
+		"/tmp/report_eps_val_pdu_summary_section0_xpwrEQKL9rbVXJXd.html",
+		"/Users/dsere/Code/SMART/smart-web/src/app/report/oneclick/oneclick.html",
+		"/Users/dsere/Documents/report_GRAS_M01_L1b_daily_summary_section0_xB1S4m4OR1yB9mzn.html",
+		"/Users/dsere/Code/SMART/smart-web/src/app/timepicker/timpickerInput.directive.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/report/breadcrumbs/breadcrumbs.html",
+		"/Users/dsere/Code/SMART/smart-web/src/app/profile/queries/service.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/profile/recurring/service.js",
+		"/Users/dsere/Code/SMART/smart-web/build/nodejs/node-v4.6.1-darwin-x64/include/node/openssl/archs/darwin-i386-cc/opensslconf.h",
+		"/Users/dsere/Code/SMART/smart-web/src/app/timepicker/timepicker.spec.js",
+		"/Users/dsere/Library/Application Support/Sublime Text 3/Packages/Search in Project/README.md",
+		"/Users/dsere/Documents/smartrp-finalpush.mdown",
+		"/Users/dsere/Documents/SMART-docs/tasks.mdown",
+		"/Users/dsere/Code/SMART/smart-web/src/styles/breadcrumbs.less",
+		"/Users/dsere/Code/SMART/smart-web/src/app/report/breadcrumbs/breadcrumbs.js",
+		"/Users/dsere/Downloads/libedit-20160903-3.1/examples/fileman.c",
+		"/Users/dsere/Code/SMART/smart-web/src/app/timepicker/timepicker.service.spec.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/utils/uuids.js",
+		"/Users/dsere/Code/SMART/smart-web/src/index.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/header.spec.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/profile/profile.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/footer.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/profile/admin/users/list.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/profile/profile.module.js.bak",
+		"/Users/dsere/Code/SMART/smart-web/src/app/profile/profile.module.js",
+		"/Users/dsere/Code/SMART/smart-web/package.json",
+		"/Users/dsere/Code/SMART/smart-web/bower.json",
+		"/Users/dsere/Code/SMART/smart-web/src/app/profile/roles.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/profile/tasks/list.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/profile/tasks/service.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/profile/admin/users/service.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/profile/admin/users/edit.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/profile/admin/tasks/service.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/profile/admin/tasks/list.js",
+		"/Users/dsere/Code/SMART/smart-web/gulp_tasks/flow.js",
+		"/Users/dsere/Code/SMART/smart-web/src/styles/box.less",
+		"/Users/dsere/Code/SMART/smart-web/src/app/report/report.html",
+		"/Users/dsere/Code/SMART/smart-web/gulp_tasks/dgeni.js",
+		"/Users/dsere/Code/SMART/smart-web/conf/dgeni/scaffold",
+		"/Users/dsere/Code/SMART/smart-web/gulpfile.js",
+		"/Users/dsere/Code/SMART/smart-web/conf/gulp.conf.js",
+		"/Users/dsere/Code/SMART/smart-web/conf/dgeni.conf.js",
+		"/Users/dsere/Code/SMART/smart-web/conf/dgeni/scaffold/angular-ui-router.min.js",
+		"/Users/dsere/Code/SMART/smart-web/conf/dgeni/templates/indexPage.template.html",
+		"/Users/dsere/Code/SMART/smart-web/conf/dgeni/templates/module.template.html",
+		"/Users/dsere/Code/SMART/smart-web/conf/dgeni/scaffold/angular.min.js",
+		"/Users/dsere/Code/SMART/smart-web/conf/dgeni/scaffold/app.config.js",
+		"/Users/dsere/Code/SMART/smart-web/bower_components/angular-ui-codemirror/bower.json",
+		"/Users/dsere/Code/SMART/smart-web/bower_components/angular-ui-codemirror/.bower.json",
+		"/Users/dsere/Code/SMART/smart-web/gulp_tasks/inject.js",
+		"/Users/dsere/Code/SMART/smart-web/gulp_tasks/misc.js",
+		"/Users/dsere/Code/SMART/smart-web/gulp_tasks/styles.js",
+		"/Users/dsere/Code/SMART/smart-web/src/app/main.html",
+		"/Users/dsere/Code/SMART/smart-web/src/app/footer.html",
+		"/Users/dsere/Code/SMART/smart-web/doc/generated",
+		"/Users/dsere/Library/Application Support/Sublime Text 3/Packages/User/SublimeCodeIntel.sublime-settings",
+		"/Users/dsere/Code/SMART/smart-web/src/app/data/data.cache.js",
+		"/Users/dsere/Code/SMART/smart-web/src/index.html.orig",
+		"/Users/dsere/Code/SMART/smart-web/src/styles/codemirror.less.bak",
+		"/Users/dsere/Code/SMART/smart-web/bower_components/codemirror/.bower.json",
+		"/Users/dsere/Code/SMART/smart-web/doc/generated/index.html",
+		"/Users/dsere/Downloads/static_doc_angular/index.js",
+		"/Users/dsere/Code/SMART/smart-web/conf/dgeni/scaffold/bootstrap.min.css",
+		"/Users/dsere/Code/SMART/smart-web/docs/templates/ngComponent.template.html"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"<current file>",
+			"<Project>",
+			"Project",
+			"<current file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Only in",
+			": ",
+			" differ",
+			"and ",
+			"files",
+			"Only in",
+			"Only in ",
+			"//",
+			": ",
+			" differ",
+			"Files (.*) and",
+			"//",
+			": ",
+			"cachedData",
+			"remove",
+			".remove",
+			"isDirect",
+			"isDire",
+			"Alert",
+			"extract",
+			"logger",
+			"render",
+			"logger",
+			"proto",
+			"shouldSum",
+			"extractfilter",
+			"groupData",
+			"updateOptions",
+			"isXSelected",
+			"tabFiltersChanged",
+			"getEmptyGraphSettings",
+			"graphP",
+			"});\n",
+			"newTab",
+			"handle",
+			"schedule",
+			"inttounit",
+			"activeTab",
+			"reportMainCtrl",
+			"newTab",
+			"reportQuery",
+			"reportName",
+			"pickerToStateAndParams",
+			"timepi",
+			"mapTo",
+			"dialog",
+			"alert",
+			"renderGraphs",
+			"Entered",
+			"comment",
+			"newVal",
+			"separator",
+			"\"",
+			"format",
+			"config",
+			"todo",
+			"TODO",
+			"2%",
+			"schedule-list",
+			"isLoggedIn",
+			"x axis",
+			"rotate",
+			"rotate(-30",
+			"[height,",
+			":136",
+			"toggleX",
+			"\"",
+			"handleDri",
+			"resultTaskId",
+			"rilldown",
+			"allRoles",
+			"isSession",
+			"oneclickReports",
+			"description",
+			"\"",
+			"completeAfter",
+			"buildTags",
+			"cur",
+			"query",
+			"signOut",
+			"filterService",
+			"query",
+			"null",
+			"params",
+			"getDrillDown",
+			"legendTotalHeigth",
+			"legendEntryWidth",
+			"overflow",
+			"tableClasses",
+			"th",
+			"}}}}{>",
+			"print",
+			"print('processDataForGraph",
+			"print('",
+			"processDataForGraph",
+			"plain",
+			"\\n",
+			"group",
+			"currentReportQuery",
+			"emailNot",
+			"options",
+			"graphSettings",
+			"update(",
+			"valueColumns",
+			"buildCacheKeyGetGraphParams",
+			"ERROR",
+			"close",
+			"taskId",
+			"handleE",
+			"flashesCallback",
+			"tooltipS",
+			"addTo",
+			"div",
+			"render",
+			"remove",
+			"collapse",
+			"collapsed",
+			"collapse",
+			"currentReportQuery",
+			"currentReport",
+			"myL",
+			"visible",
+			"graphsVm",
+			"visible",
+			"watch",
+			"getDataAnd",
+			"activetab",
+			"activeFilters"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"cp -r",
+			"/",
+			"",
+			"cp -r",
+			"",
+			"/",
+			"",
+			"/",
+			"'",
+			"print('processDataForGraph ",
+			"print('processDataForGraph",
+			"\\r\\n",
+			"reportMainVm.activetab",
+			"ProgressController",
+			"stateParams",
+			"activateTab",
+			"graphdata",
+			"\n",
+			"rowspan=\"2\"",
+			"'",
+			"\"",
+			"",
+			": ",
+			"$q.reject(",
+			"Promise.reject(",
+			";",
+			"@",
+			"'",
+			"resp",
+			"\\'",
+			"\"",
+			"DEV_API",
+			"__endpoint",
+			"api(",
+			"reportName",
+			"cutoff)",
+			"\"",
+			"timepickerVm.pickers",
+			"timepickerVm.activetab.pickers",
+			"",
+			"progressVm",
+			"timepickerVm.pickers",
+			"timepickerVm.pickers.",
+			"pickers",
+			"$scope.pickers",
+			"active",
+			" ",
+			"'",
+			"\n",
+			"'",
+			"@EUM_GrayBlue",
+			"@white",
+			"color: @white",
+			"srp",
+			"assets/image",
+			"srp",
+			"smartrp",
+			"smartRP",
+			"Hours in Estimates:",
+			"\"created_by\": 1,",
+			"\"published_by\": 1,",
+			"\"author_id\": 1,",
+			"wrapWithTryCatch(.*, MyErrorHandler)",
+			"function render() { console.log(\"Render entered\");",
+			"@ VM206:20\n",
+			"@ VM206:23\n",
+			"@ VM206:21\n",
+			"@ VM206:19\n",
+			"@ VM206:18\n",
+			"@ VM206:22\n",
+			"@ VM206:(\\d\\d)\n",
+			"",
+			"SAME",
+			"",
+			"\n===========",
+			"===========",
+			"",
+			"Vectrs",
+			"Debug1",
+			"\n\n\nDebug 1",
+			"",
+			"Java",
+			"\\\"",
+			"background:#ecf0f5;color:#333;",
+			"background:#ecf0f5;color:#d2d6de;",
+			"background:#d2d6de;color:black",
+			"background:#d2d6de;color:white",
+			".nav>.active>a{background:lightgrey;color:white}",
+			".nav>.active>a{background:lightgrey;color:black}",
+			".nav>.active>a{background:rgba(0,0,0,0.1);color:lightgrey}",
+			" </i></button>",
+			" ",
+			"/a",
+			"<a href=\"#\" class=\"list-group-item\">",
+			"<a href=\"#\" class=\"btn list-group-item\">",
+			"<a href=\"#\" class=\"btn btn-md list-group-item\">",
+			"<td align=\"center\"><a href=\"#\"><i class=\"fa fa-ban fa-lg\"></i></a> <div class=\"headerDivider\"></div> <a href=\"#\"><i class=\"fa fa-refresh fa-lg\"></i></a></td>",
+			"\n<td align=\"center\"><a href=\"#\"><i class=\"fa fa-ban fa-lg\"></i></a><div class=\"headerDivider\"></div><a href=\"#\"><i class=\"fa fa-refresh fa-lg\"></i></a></td>",
+			"class=\"fa fa-refresh fa-lg\"",
+			"<td align=\"center\"><a href=\"#\"><i class=\"fa fa-ban fa-lg\"></i></a> | <a href=\"#\"><i class=\"fa fa-refresh\"></i></a></td>",
+			"<td align=\"center\"><a href=\"#\"><i class=\"fa fa-ban fa-lg\"></i></a> | <a href=\"#\"><i class=\"fa fa-refresh\"></i></a>|<a href=\"#\"><i class=\"fa fa-ban fa-lg\"></i></a> | <a href=\"#\"><i class=\"fa fa-refresh\"></i></a></td>",
+			"<td align=\"center\"><a href=\"#\"><i class=\"fa fa-ban fa-lg\"></i></a> | <a href=\"#\"><i class=\"fa fa-refresh\"></i></a></td>",
+			"<td class=\"dt-center\"><a href=\"#\"><i class=\"fa fa-ban fa-lg\"></i></a> | <a href=\"#\"><i class=\"fa fa-refresh\"></i></a></td>",
+			"",
+			"<td class=\"dt-center\" align=\"center\"><a href=\"#\"><i class=\"fa fa-ban fa-lg\"></i></a></td>",
+			"<i class=\"fa fa-ban fa-lg\"></i>",
+			"<i class=\"fa fa-ban fa-2x\"></i>",
+			"<i class=\"fa fa-ban fa-3x\"></i>",
+			"class=\"dt-center\"",
+			"<td class=\"center\"></td>",
+			"<a href=\"#\"><i class=\"fa fa-ban\"></i></a>",
+			"<i class=\"fa fa-ban\"></i>",
+			"<td class=\"center\"><i class",
+			"",
+			"<i class=\"fa fa-exclamation-triangle\"></i>",
+			"<i class=\"fa fa-check\"></i>",
+			"<i class=\"fa fa-spinner fa-spin\"></i>",
+			"2016-02-13T08:14:22+02:00",
+			"2016-02-03T08:14:22+02:00",
+			"2016-02-02T08:14:22+02:00",
+			"2016-02-21T08:14:22+02:00",
+			"2016-01-26T08:14:22+00:00",
+			"2016-02-26T08:14:22+00:00",
+			"2016-02-14T08:04:22+00:00",
+			"2016-02-26T08:04:22+00:00",
+			"REPORT_LEO_SAMPLE",
+			"LONG_RUNNING_REP_XYZ",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "web/router.ex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 486,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								283,
+								283
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										283,
+										284
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										253,
+										254
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme.tmTheme",
+							"syntax": "Packages/Elixir/Syntaxes/Elixir.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_visual",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 24
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "web/models/measurement.ex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Elixir/Syntaxes/Elixir.tmLanguage",
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "package.json",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 459,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										457,
+										458
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										0,
+										1
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MarGo-output":
+	{
+		"height": 168.0
+	},
+	"output.exec":
+	{
+		"height": 174.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 174.0
+	},
+	"pinned_build_system": "",
+	"project": "ringtail-api.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"tableda",
+				"src/app/report/tabledata/tabledata.js"
+			],
+			[
+				"filters.ser",
+				"src/app/report/filters/filters.service.js"
+			],
+			[
+				"renderer",
+				"src/app/renderer/renderer.service.js"
+			],
+			[
+				"g",
+				"src/app/report/graphs/graphs.js"
+			],
+			[
+				"reportlist",
+				"src/app/report/reportlist/reportlist.js"
+			],
+			[
+				"report.js",
+				"src/app/report/report.js"
+			],
+			[
+				"tablde",
+				"src/app/report/tabledata/tabledata.js"
+			],
+			[
+				"gra",
+				"src/app/report/graphs/graphs.js"
+			],
+			[
+				"graphs.js",
+				"src/app/report/graphs/graphs.js"
+			],
+			[
+				"utils",
+				"bower_components/jszip/lib/utils.js"
+			],
+			[
+				"renderer.ser",
+				"src/app/renderer/renderer.service.js"
+			],
+			[
+				"tabledata",
+				"src/app/report/tabledata/tabledata.js"
+			],
+			[
+				"pro",
+				"src/app/report/progress/progress.js"
+			],
+			[
+				"progress",
+				"src/app/report/progress/progress.js"
+			],
+			[
+				"list",
+				"src/app/profile/queries/list.js"
+			],
+			[
+				"routes",
+				"src/routes.js"
+			],
+			[
+				"index",
+				"src/index.html"
+			],
+			[
+				"constan",
+				"src/constants.js"
+			],
+			[
+				"constant.",
+				"src/constants.js"
+			],
+			[
+				"filters.van",
+				"src/app/report/filters/filters.vanilla.js"
+			],
+			[
+				"filters.js",
+				"src/app/report/filters/filters.js"
+			],
+			[
+				"filters",
+				"src/app/utils/filters.js"
+			],
+			[
+				"graphs",
+				"src/app/report/graphs/graphs.js"
+			],
+			[
+				"filters.service",
+				"src/app/report/filters/filters.service.js"
+			],
+			[
+				"timepicker",
+				"src/app/timepicker/timepicker.service.js"
+			],
+			[
+				"graph.re",
+				"src/app/renderer/graph.renderer.js"
+			],
+			[
+				"aggrega",
+				"src/app/report/aggregator/aggregator.service.js"
+			],
+			[
+				"aggreg",
+				"src/app/report/aggregator/aggregator.vanilla.js"
+			],
+			[
+				"list.js",
+				"src/app/profile/queries/list.js"
+			],
+			[
+				"graph",
+				"src/app/renderer/graph.renderer.js"
+			],
+			[
+				"graphs.",
+				"src/app/report/graphs/graphs.js"
+			],
+			[
+				"tabset",
+				"src/app/report/tabset.js"
+			],
+			[
+				"reportlis",
+				"src/app/report/reportlist/reportlist.js"
+			],
+			[
+				"timepicker.ser",
+				"src/app/timepicker/timepicker.service.js"
+			],
+			[
+				"route",
+				"src/routes.js"
+			],
+			[
+				"bower.json",
+				"bower.json"
+			],
+			[
+				"duedit",
+				"src/app/report/dueditor/dueditor.js"
+			],
+			[
+				"agg",
+				"src/app/report/aggregator/aggregator.vanilla.js"
+			],
+			[
+				"a",
+				"doc/generated/src/api.js"
+			],
+			[
+				"aggregat",
+				"src/app/report/aggregator/aggregator.vanilla.js"
+			],
+			[
+				"duedi",
+				"src/app/report/dueditor/dueditor.html"
+			],
+			[
+				"csv",
+				"src/app/renderer/csv.renderer.js"
+			],
+			[
+				"editor",
+				"src/app/profile/recurring/editor.js"
+			],
+			[
+				"",
+				"src/app/report/aggregator/aggregator.vanilla.js"
+			],
+			[
+				"dued",
+				"src/app/report/dueditor/dueditor.js"
+			],
+			[
+				"editor.js",
+				"src/app/profile/recurring/editor.js"
+			],
+			[
+				"queries",
+				"src/app/profile/queries/list.js"
+			],
+			[
+				"recurring",
+				"src/app/profile/recurring/editor.js"
+			],
+			[
+				"reportlist.js",
+				"src/app/report/reportlist/reportlist.js"
+			],
+			[
+				"due",
+				"src/app/report/dueditor/dueditor.js"
+			],
+			[
+				"oneclick",
+				"src/app/report/oneclick/oneclick.js"
+			],
+			[
+				"table.render",
+				"src/app/renderer/table.renderer.js"
+			],
+			[
+				"auth.ser",
+				"src/app/auth/auth.service.js"
+			],
+			[
+				"reportli",
+				"src/app/report/reportlist/reportlist.html"
+			],
+			[
+				"reportlist.hm",
+				"src/app/report/reportlist/reportlist.html"
+			],
+			[
+				"index.less",
+				"src/index.less"
+			],
+			[
+				"login.js",
+				"src/app/profile/login/login.js"
+			],
+			[
+				"graph.render",
+				"src/app/renderer/graph.renderer.js"
+			],
+			[
+				"aggre",
+				"src/app/report/aggregator/aggregator.vanilla.js"
+			],
+			[
+				"consta",
+				"src/constants.js"
+			],
+			[
+				"constant",
+				"src/constants.js"
+			],
+			[
+				"routes.js",
+				"src/routes.js"
+			],
+			[
+				"onecli",
+				"src/app/report/oneclick/oneclick.js"
+			],
+			[
+				"table.ren",
+				"src/app/renderer/table.renderer.js"
+			],
+			[
+				"renderer.s",
+				"src/app/renderer/renderer.service.js"
+			],
+			[
+				"table.re",
+				"src/app/renderer/table.renderer.js"
+			],
+			[
+				"report",
+				"src/app/report/report.js"
+			],
+			[
+				"timepic",
+				"src/app/timepicker/timepicker.js"
+			],
+			[
+				"prot",
+				"src/app/utils/prototypes.js"
+			],
+			[
+				"storage",
+				"src/app/utils/storage.config.js"
+			],
+			[
+				"protot",
+				"src/app/utils/prototypes.js"
+			],
+			[
+				"aggregator.",
+				"src/app/report/aggregator/aggregator.service.js"
+			],
+			[
+				"proto",
+				"src/app/utils/prototypes.js"
+			],
+			[
+				"logger.",
+				"src/app/logger/logger.service.js"
+			],
+			[
+				"authser",
+				"src/app/auth/auth.service.js"
+			],
+			[
+				"dropdown.js",
+				"src/app/profile/dropdown/dropdown.js"
+			],
+			[
+				"data",
+				"src/app/data/data.service.js"
+			],
+			[
+				"timepicker.serv",
+				"src/app/timepicker/timepicker.service.js"
+			],
+			[
+				"tab",
+				"src/app/report/tabset.html"
+			],
+			[
+				"progr",
+				"src/app/report/progress/progress.js"
+			],
+			[
+				"aggregator",
+				"src/app/report/aggregator/aggregator.vanilla.js"
+			],
+			[
+				"tabledat",
+				"src/app/report/tabledata/tabledata.js"
+			],
+			[
+				"main",
+				"src/app/main.js"
+			],
+			[
+				"data.",
+				"src/app/data/data.service.js"
+			],
+			[
+				"repo",
+				"src/app/report/report.js"
+			],
+			[
+				"data.ser",
+				"src/app/data/data.service.js"
+			],
+			[
+				"progress.js",
+				"src/app/report/progress/progress.js"
+			],
+			[
+				"prog",
+				"src/app/report/progress/progress.js"
+			],
+			[
+				"flashser",
+				"src/app/flash/flash.service.js"
+			],
+			[
+				"graph.",
+				"src/app/renderer/graph.renderer.js"
+			],
+			[
+				"progre",
+				"src/app/report/progress/progress.js"
+			],
+			[
+				"timepi",
+				"src/app/timepicker/timepicker.js"
+			],
+			[
+				"rendere",
+				"src/app/renderer/table.renderer.js"
+			],
+			[
+				"progres",
+				"src/app/report/progress/progress.js"
+			],
+			[
+				"reporlist",
+				"src/app/report/reportlist/reportlist.js"
+			],
+			[
+				"filter.j",
+				"src/app/utils/filters.js"
+			],
+			[
+				"table",
+				"src/app/report/tabledata/tabledata.js"
+			],
+			[
+				"tabledata.",
+				"src/app/report/tabledata/tabledata.js"
+			],
+			[
+				"render",
+				"src/app/renderer/renderer.service.js"
+			],
+			[
+				"graphs.html",
+				"src/app/report/graphs/graphs.html"
+			],
+			[
+				"ren",
+				"src/app/renderer/renderer.service.js"
+			],
+			[
+				"graph.ren",
+				"src/app/renderer/graph.renderer.js"
+			],
+			[
+				"recurr",
+				"src/app/profile/recurring/editor.js"
+			],
+			[
+				"csv.",
+				"src/app/renderer/csv.renderer.js"
+			],
+			[
+				"timepikcer",
+				"src/app/timepicker/timepicker.service.js"
+			],
+			[
+				"dataser",
+				"src/app/data/data.service.js"
+			],
+			[
+				"constants",
+				"src/constants.js"
+			],
+			[
+				"tabled",
+				"src/app/report/tabledata/tabledata.js"
+			],
+			[
+				"buildcache",
+				"build/nodejs/node-v4.6.1-darwin-x64/include/node/openssl/archs/darwin-i386-cc/opensslconf.h"
+			],
+			[
+				"aggregate",
+				"src/app/report/aggregator/aggregator.vanilla.js"
+			],
+			[
+				"table.",
+				"src/app/renderer/table.renderer.js"
+			],
+			[
+				"table.de",
+				"src/app/renderer/table.renderer.js"
+			],
+			[
+				"time",
+				"src/app/timepicker/timepicker.service.js"
+			],
+			[
+				"timepik",
+				"src/app/timepicker/timepicker.service.js"
+			],
+			[
+				"tabler",
+				"src/app/renderer/table.renderer.js"
+			],
+			[
+				"renderer.se",
+				"src/app/renderer/renderer.service.js"
+			],
+			[
+				"datase",
+				"src/app/data/data.service.js"
+			],
+			[
+				"routes.",
+				"src/routes.js"
+			],
+			[
+				"du",
+				"src/app/report/dueditor/dueditor.html"
+			],
+			[
+				"reportl",
+				"src/app/report/reportlist/reportlist.js"
+			],
+			[
+				"tabs",
+				"src/app/report/tabset.js"
+			],
+			[
+				"tabset.",
+				"src/app/report/tabset.html"
+			],
+			[
+				"report.",
+				"src/app/report/report.js"
+			],
+			[
+				"logger.ser",
+				"src/app/logger/logger.service.js"
+			],
+			[
+				"header.sp",
+				"src/app/header.spec.js"
+			],
+			[
+				"inde",
+				"src/index.js"
+			],
+			[
+				"timepicker.service",
+				"src/app/timepicker/timepicker.service.js"
+			],
+			[
+				"timepicker.s",
+				"src/app/timepicker/timepicker.service.spec.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 539.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"vintage":
+		{
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 268.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
